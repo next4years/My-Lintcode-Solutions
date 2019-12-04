@@ -150,7 +150,7 @@
 
 [667. Longest Palindromic Subsequence](./problems/0601-0700/667.longest-palindromic-subsequence.md)
 
-###双序列型
+### 双序列型
 
 [29. Interleaving String](./problems/0001-0100/29.interleaving-string.md)
 
