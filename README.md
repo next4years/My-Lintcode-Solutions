@@ -166,6 +166,10 @@
 
 [668. Ones and Zeroes](./problems/0601-0700/668.ones-and-zeroes.md)
 
+### 其他
+
+[254. Drop Eggs](./problems/0201-0300/254.drop-eggs.md)
+
 ## 贪心法
 
 [150. Best Time to Buy and Sell Stock II](./problems/0101-0200/150.best-time-to-buy-and-sell-stock-ii.md)
@@ -297,6 +301,10 @@
 [1318. Contains Duplicate III](./problems/1301-1400/1318.contains-duplicate-iii.md)
 
 [1325. Bitwise AND of Numbers Range](./problems/1301-1400/1325.bitwise-and-of-numbers-range.md)
+
+## 数学 or 找规律
+
+[254. Drop Eggs](./problems/0201-0300/254.drop-eggs.md)
 
 ## 其他
 
